@@ -11,6 +11,6 @@ protoc-rust = "2.16.2"
 mysql = "18.2.0"
 
 rua_value_list = { git = "https://github.com/fjhg19930505/rua_value_list.git" }
-rua_proto = { git = "https://github.com/fjhg19930505/rua_proto.git" }
+rua_net_mgr = { git = "https://github.com/fjhg19930505/rua_net_mgr.git" }
 time = "0.2.16"
 url = "2.1.1"
